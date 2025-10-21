@@ -1,0 +1,3 @@
+Manzana,850,50
+Banana,900,100
+Naranja,1000,75
